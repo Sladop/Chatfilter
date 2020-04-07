@@ -1,0 +1,1003 @@
+Parameter:    Mute: 85.0 Support: 60.0
+__________________________________________
+
+Gelesene Zeile:              Niels
+Match-Aktion:               NULL
+Prozent:                          42.85714 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              Philipp
+Match-Aktion:               NULL
+Prozent:                          44.444443 
+Match-Wort:                  vollidiot
+
+Gelesene Zeile:              Xerxaross
+Match-Aktion:               NULL
+Prozent:                          44.444443 
+Match-Wort:                  dumbass
+
+Gelesene Zeile:              officialfkk
+Match-Aktion:               NULL
+Prozent:                          42.85714 
+Match-Wort:                  fkk
+
+Gelesene Zeile:              #c t
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              hey
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              restart?
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              digga
+Match-Aktion:               SUPPORT
+Prozent:                          80.0 
+Match-Wort:                  nigga
+
+Gelesene Zeile:              wer ist er denn?
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  ez
+
+Gelesene Zeile:              PasR3
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              dieser yolotyp wtf
+Match-Aktion:               SUPPORT
+Prozent:                          66.666664 
+Match-Wort:                  pisser
+
+Gelesene Zeile:              bestimmt wieder so ein Talivar
+Match-Aktion:               SUPPORT
+Prozent:                          66.666664 
+Match-Wort:                  wixxer
+
+Gelesene Zeile:              und den hab ich ne wolle gegeben
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              ahaha
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              und er wollt mich sogar noch erpressen
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              womit
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              Bei mir auch
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  arsch
+
+Gelesene Zeile:              dass ich ihn münzen gebe
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              xd
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              idk
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              voll Lollig
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              er hatte kein wirklichen grund
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              skyskiller wird vom 11jährigen erpresst
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  spasst
+
+Gelesene Zeile:              scamme ja nicht
+Match-Aktion:               NULL
+Prozent:                          42.85714 
+Match-Wort:                  lusche
+
+Gelesene Zeile:              Redstone Rechte
+Match-Aktion:               SUPPORT
+Prozent:                          66.666664 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              aber bei dem hatte ich schon gute lust
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              xd
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              ich hasse kiddies nofront HomelessMagican xD
+Match-Aktion:               SUPPORT
+Prozent:                          71.42857 
+Match-Wort:                  kiddi
+
+Gelesene Zeile:              s
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              :o
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              UwU
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              OvO
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              danke
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              aber mit 13 sollteste eig auch schon im bett sein nofront
+Match-Aktion:               NULL
+Prozent:                          55.555553 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              weis ich nofront
+Match-Aktion:               NULL
+Prozent:                          42.85714 
+Match-Wort:                  nuttensohn
+
+Gelesene Zeile:              Ich kanne mich gut mit teleportationen aus
+Match-Aktion:               NULL
+Prozent:                          55.555553 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              xD
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              haha
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              wie alt bist du?
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              ich auch nicht
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  arsch
+
+Gelesene Zeile:              ahha
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              ahaha
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              Ja, aber für den chat
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  shit
+
+Gelesene Zeile:              taliiiivarrr nenn dich um!
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  fick
+
+Gelesene Zeile:              ich hab mir da sandkuchen aus echtem sand gemacht
+Match-Aktion:               NULL
+Prozent:                          47.058823 
+Match-Wort:                  nuttentochter
+
+Gelesene Zeile:              und ihn dann gegessen
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              xddd
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              na du
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              #p ne
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              aber heut zu tage sind die kids ja hipper
+Match-Aktion:               SUPPORT
+Prozent:                          66.666664 
+Match-Wort:                  hitler
+
+Gelesene Zeile:              oder wie man auch immer sagt xD
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  pimmel
+
+Gelesene Zeile:              HEEH
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              ?
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              xd
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              geh am besten wieder in die Lobby
+Match-Aktion:               SUPPORT
+Prozent:                          66.666664 
+Match-Wort:                  wixxer
+
+Gelesene Zeile:              ja
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              und die teenies haben jtz alle schon diese Handis !
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  huren
+
+Gelesene Zeile:              ipone
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              xd
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              und samsun
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  huan
+
+Gelesene Zeile:              habt ihr getrunken ? xd
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              die sind alle süchtig
+Match-Aktion:               NULL
+Prozent:                          44.444443 
+Match-Wort:                  muschi
+
+Gelesene Zeile:              früher haben wir noch draußen gespielt
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  huren
+
+Gelesene Zeile:              xD
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              erde gebacken xd
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  ficken
+
+Gelesene Zeile:              erde essen war da besser
+Match-Aktion:               SUPPORT
+Prozent:                          66.666664 
+Match-Wort:                  pisser
+
+Gelesene Zeile:              GRAUSAM
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              alda
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              ne
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              ich wusste nichtmal was das is
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              ok jetzt reicht es echt! xd
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  ez
+
+Gelesene Zeile:              ich bau das nicht mehr um
+Match-Aktion:               NULL
+Prozent:                          44.444443 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              ja
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              fischerinsel -. _ -.
+Match-Aktion:               NULL
+Prozent:                          58.333336 
+Match-Wort:                  scheisse
+
+Gelesene Zeile:              JA
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              DA ISSER WIEDER
+Match-Aktion:               SUPPORT
+Prozent:                          80.0 
+Match-Wort:                  pisser
+
+Gelesene Zeile:              diese autos sind auch so neumodische dinger
+Match-Aktion:               SUPPORT
+Prozent:                          66.666664 
+Match-Wort:                  nigger
+
+Gelesene Zeile:              KMS
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              PLS
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              #c uff
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              #c ich will nicht
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  milf
+
+Gelesene Zeile:              ja
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              YingYang666 hast bock ein erd kuchen zu backen?
+Match-Aktion:               NULL
+Prozent:                          57.142857 
+Match-Wort:                  ficken
+
+Gelesene Zeile:              hey
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              oh yes
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              heute trinken die auch nurnoch vodka
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  hure
+
+Gelesene Zeile:              ja im wald
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              komm ma zu mir
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              schön lecker
+Match-Aktion:               SUPPORT
+Prozent:                          66.666664 
+Match-Wort:                  ficker
+
+Gelesene Zeile:              in meiner jugend wurde der alk pur genommen
+Match-Aktion:               SUPPORT
+Prozent:                          66.666664 
+Match-Wort:                  penner
+
+Gelesene Zeile:              Junge jetzt sei leise xd
+Match-Aktion:               NULL
+Prozent:                          44.444443 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              ich find schön, dass das noch geht
+Match-Aktion:               NULL
+Prozent:                          57.142857 
+Match-Wort:                  schwanz
+
+Gelesene Zeile:              aber das is wohl nicht mehr hip
+Match-Aktion:               NULL
+Prozent:                          44.444443 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              darf man  mit 11 kappa sagen?
+Match-Aktion:               NULL
+Prozent:                          42.85714 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              xD
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              kappa
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              ah ok
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              ouh
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              xd
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              :c
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              xD
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              EW
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              was zum
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              #c huhu
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  huan
+
+Gelesene Zeile:              wer
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              xD
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              neee
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              mincraft gecrasht
+Match-Aktion:               NULL
+Prozent:                          44.444443 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              lol
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              ok was wolltest du noch mal?
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  noob
+
+Gelesene Zeile:              ok warte
+Match-Aktion:               SUPPORT
+Prozent:                          66.666664 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              xD
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              xD
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              owo
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              mit 13 wusste ich nichtmal was ein pc ist
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              da war ich im wald und habe erde gefressen xD
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  hure
+
+Gelesene Zeile:              du brauchst noch op
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  noob
+
+Gelesene Zeile:              xD neeeeee
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              achso
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  huso
+
+Gelesene Zeile:              xD
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              mit 13 bin ich schon Traktor gefahren
+Match-Aktion:               NULL
+Prozent:                          57.142857 
+Match-Wort:                  huren
+
+Gelesene Zeile:              na
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              seit 8Jahren aber xd
+Match-Aktion:               SUPPORT
+Prozent:                          75.0 
+Match-Wort:                  shit
+
+Gelesene Zeile:              die sagen das sowas wie der Apfel ist nicht vegan
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  opfer
+
+Gelesene Zeile:              die smartfones
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              illegal
+Match-Aktion:               NULL
+Prozent:                          42.85714 
+Match-Wort:                  nigga
+
+Gelesene Zeile:              das waren früher noch zeiten xD
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  huren
+
+Gelesene Zeile:              handy süchtige jugend
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  huren
+
+Gelesene Zeile:              frechheit
+Match-Aktion:               NULL
+Prozent:                          42.85714 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              im wald
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              mit ästen und steinen
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              wir hatten nichtmal ein haus
+Match-Aktion:               SUPPORT
+Prozent:                          66.666664 
+Match-Wort:                  titten
+
+Gelesene Zeile:              nichtmal autos
+Match-Aktion:               NULL
+Prozent:                          42.85714 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              das waren noch zeiten
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  huren
+
+Gelesene Zeile:              hi leute
+Match-Aktion:               SUPPORT
+Prozent:                          66.666664 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              mit den 5 reifen oder?
+Match-Aktion:               NULL
+Prozent:                          44.444443 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              bnw, auti usw
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              hi
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  muschi
+
+Gelesene Zeile:              #c xD
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              hä wie meinst du das
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              und rauchen
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              alles niedlich dieser vodka
+Match-Aktion:               SUPPORT
+Prozent:                          66.666664 
+Match-Wort:                  pisser
+
+Gelesene Zeile:              haha sehr witzig kappa
+Match-Aktion:               NULL
+Prozent:                          44.444443 
+Match-Wort:                  loser
+
+Gelesene Zeile:              unter 90% ging nichts früher bei uns
+Match-Aktion:               NULL
+Prozent:                          44.444443 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              ja
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              und heute ist ein alkohol freier radler schon zu gefährlich
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  hure
+
+Gelesene Zeile:              uwu
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              kommmm knock it
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              skyskiller hast du noch das im kopf
+Match-Aktion:               SUPPORT
+Prozent:                          62.5 
+Match-Wort:                  hohlkopf
+
+Gelesene Zeile:              uwu KnockIt
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              wo ich dir gesagt hab
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              NoobyCraftLP
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  noob
+
+Gelesene Zeile:              alter man ist sofort down xD
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  porn
+
+Gelesene Zeile:              was das?
+Match-Aktion:               NULL
+Prozent:                          42.85714 
+Match-Wort:                  dumbass
+
+Gelesene Zeile:              cmmon
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  huan
+
+Gelesene Zeile:              ih
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              nicht das
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              wer bruach Knock it
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  arsch
+
+Gelesene Zeile:              Nice
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              eee
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              hey
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              UwU
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              Hat wer einen erd kuchen?
+Match-Aktion:               NULL
+Prozent:                          44.444443 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              jap
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              giey
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              Officialfk
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              ja, passen wir noch bisschen an
+Match-Aktion:               SUPPORT
+Prozent:                          66.666664 
+Match-Wort:                  pisser
+
+Gelesene Zeile:              wo ist mein Gold Rang?
+Match-Aktion:               NULL
+Prozent:                          44.444443 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              goild?
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              gold?
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              Hallo?
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              hehe
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              Officialfk hatte damals Gold Rang, wo is der hin?
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              xD
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              noob
+Match-Aktion:               MUTE
+Prozent:                          100.0 
+Match-Wort:                  noob
+
+Gelesene Zeile:              hure
+Match-Aktion:               MUTE
+Prozent:                          100.0 
+Match-Wort:                  hure
+
+Gelesene Zeile:              nutte
+Match-Aktion:               MUTE
+Prozent:                          100.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              huch
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  huan
+
+Gelesene Zeile:              markusmarkusz
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              ficker
+Match-Aktion:               MUTE
+Prozent:                          100.0 
+Match-Wort:                  ficker
+
+Gelesene Zeile:              hey
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              jz hier nicht persönlich werden
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              schnauze du hs
+Match-Aktion:               MUTE
+Prozent:                          100.0 
+Match-Wort:                  schnauze
+
+Gelesene Zeile:              Outshallah= nicht legit
+Match-Aktion:               NULL
+Prozent:                          44.444443 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              guten abend
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  huren
+
+Gelesene Zeile:              gibts eig ein leaderboard?
+Match-Aktion:               NULL
+Prozent:                          44.444443 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              guten morgen
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  huren
+
+Gelesene Zeile:              .-.
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              ? :D
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              was los
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              top1ß
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              10
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              Du spielst hier noch Mick?
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  fick
+
+Gelesene Zeile:              du weißt, dass mich das nervt
+Match-Aktion:               NULL
+Prozent:                          50.0 
+Match-Wort:                  fick
+
+Gelesene Zeile:              das guten morgen?
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  huren
+
+Gelesene Zeile:              ja
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              ?
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              RollatorDriveIn ja
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
+Gelesene Zeile:              nö wusst ich nicht haha
+Match-Aktion:               SUPPORT
+Prozent:                          60.0 
+Match-Wort:                  pussy
+
+Gelesene Zeile:              hey :3
+Match-Aktion:               NULL
+Prozent:                          39.999996 
+Match-Wort:                  nutte
+
